@@ -16,8 +16,8 @@ The Splunk Detection Lab project aimed to establish a controlled environment for
 - VMware Workstation Pro to create isolated environments for the attack and victim machines, allowing for safe and controlled simulation of cyber attacks and defenses.
 - Ubuntu Server served as the operating system for the SIEM where Splunk was installed and used to .
 - Windows 2022 Server served as the domain controller which housed Active Directory to store account credentials
-- Kali Linux system for brute force attacks on the windows machine
-- Windows 10 as the
+- Kali Linux served as the attack machine for brute force attacks on the target machine
+- Windows 10 as the target machine
 
 ## Network Diagram
 
